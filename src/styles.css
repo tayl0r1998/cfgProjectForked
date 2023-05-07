@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+}
+h1 {
+  color: grey;
+}
+
+img {
+  height: 150px;
+  place-items: center;
+}
+
+h4 {
+  color: purple;
+}
+
+ul {
+  font-size: 12px;
+  text-align: left;
+  border: solid;
+  padding-bottom: 10px;
+  border-radius: 150px;
+  margin-block: 10px;
+}
+
+div {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+Button {
+  width: 50px;
+  color: coral;
+  place-items: right;
+}
